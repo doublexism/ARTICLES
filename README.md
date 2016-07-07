@@ -1,4 +1,4 @@
 # ARTICLES
 
 ## My articles
-1. [Installation guide for ARB on Ubuntu 16.04](https://github.com/doublexism/ARTICLES/tree/master)
+1. [Installation guide for ARB on Ubuntu 16.04](https://github.com/doublexism/ARTICLES/tree/master/ARB_installation_guide.md)
