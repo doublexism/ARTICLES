@@ -47,7 +47,7 @@ export PATH
 ```
 #### Step 3 Specify the location of libxm.so.4 file
 You may still fail to launch arb after installation. You will need to link libxm3 to libxm4 to fix it.  
-**Login as super user and link in the mode of superuser**
+**Login as super user and create a soft link**
 ```
 $ sudo -i
 $ cd /usr/lib/
