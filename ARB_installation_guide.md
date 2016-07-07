@@ -1,6 +1,6 @@
 ### ARB Installation from Binary on Ubuntu 16.04
 #### Step 1 _Download .tar and .sh files_
-[ARB Download](http://download.arb-home.de/release/latest/)
+[ARB Download: You do not need to download manually, just follow the instructions](http://download.arb-home.de/release/latest/)
 * .tar file contains the binary files to install
 * .sh file is the installation script
 
