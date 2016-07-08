@@ -31,11 +31,15 @@ $ sh arb_install.sh
 1. Enter a path where the arb to be installed. I used the path "/Home/Xiao/ARB".  
 2. Choose stand along if no other users on your computer are using ARB.  
 3. Choose 1 for the very last option.  
-> modify the .bashrc or .profile files.
+> modify the .bashrc or .profile files. 
 
-**Open .bashrc file**  
+**Open .bashrc file**   
 ```
 $ vim ~/.bashrc
+```
+Or  
+```
+$ gedit ~/.bashrc
 ```
 **Add the following lines to the end of Your .bashrc file**  
 ```
