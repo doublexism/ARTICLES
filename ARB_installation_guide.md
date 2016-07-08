@@ -47,6 +47,10 @@ export LD_LIBRARY_PATH
 PATH=${ARBHOME}/bin:${PATH}
 export PATH
 ```
+**Close the text editor and let terminal reload .bashrc file**
+```
+$ . ~/.bashrc
+```
 #### Step 3 Specify the location of libxm.so.4 file
 You may still fail to launch arb after installation. You will need to link libxm3 to libxm4 to fix it.  
 **Login as super user and create a soft link**
