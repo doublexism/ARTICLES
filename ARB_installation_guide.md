@@ -36,9 +36,7 @@ $ sh arb_install.sh
 **Open .bashrc file**   
 ```
 $ vim ~/.bashrc
-```
-Or  
-```
+or
 $ gedit ~/.bashrc
 ```
 **Add the following lines to the end of Your .bashrc file**  
