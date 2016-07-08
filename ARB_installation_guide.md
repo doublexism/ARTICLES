@@ -60,7 +60,7 @@ $ cd /usr/lib/
 $ ln -s LibXm.so.4 libXm.so.3
 $ exit
 ```
-**Now run arb on terminal, you shall have the ARB gui prompt out.**
+**Now run arb on terminal, you shall have the ARB GUI prompt out.**
 ```
 $ arb
 ```
